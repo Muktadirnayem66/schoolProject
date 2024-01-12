@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 A Simple static website with react - 
 
-- [Live URL]() 
+- [Live URL]("https://muktadirnayem66.github.io/schoolProject/") 
